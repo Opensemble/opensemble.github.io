@@ -1,2 +1,2 @@
-# opensemble.github.io
-Sitio web de Opensemble
+# Opensemble
+ensamble colaborativo de música algorítmica
